@@ -1,12 +1,12 @@
 ## Projects
 ### Project 1
 - Description
-- - Links
+- Links
 
 ### Project 2
 - Description
-- - Links
+- Links
  
-### Project 2
+### Project 3
 - Description
-- - Links
+- Links
